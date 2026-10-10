@@ -80,6 +80,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@nbanea](https://github.com/nbanea) | 1 |
 | [@Neucher](https://github.com/Neucher) | 1 |
 | [@kengzzzz](https://github.com/kengzzzz) | 1 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
 | [@xeome](https://github.com/xeome) | 1 |
 | [@danog](https://github.com/danog) | 1 |
 | [@andersrh](https://github.com/andersrh) | 1 |
